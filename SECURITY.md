@@ -1,21 +1,37 @@
-# Security Policy
+<div align="center">
 
-## Supported Versions
+<img width="180" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" />
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+# 🔐 Security Policy
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+### Política de seguridad y reporte de vulnerabilidades 🛡️
 
-## Reporting a Vulnerability
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Policy-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open%20Source-Secure-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge">
+</p>
 
-Use this section to tell people how to report a vulnerability.
+</div>
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+---
+
+# ✅ Supported Versions
+
+| Version | Supported |
+|----------|------------|
+| 5.1.x | ✅ |
+| 5.0.x | ❌ |
+| 4.0.x | ✅ |
+| < 4.0 | ❌ |
+
+---
+
+# 🚨 Reporting a Vulnerability
+
+Si encuentras una vulnerabilidad de seguridad, por favor repórtala de manera responsable.
+
+## 📧 Contacto
+
+```text
+Developer.SR.IRP@gmail.com
