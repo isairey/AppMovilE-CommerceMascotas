@@ -216,7 +216,7 @@ Backend cloud.
 # 📂 Estructura del proyecto
 
 ```bash
-PetShop/
+AppMovilE-CommerceMascotas/
 │
 ├── assets/
 │   ├── images/
@@ -325,7 +325,7 @@ Usuario → Login → Productos → Carrito → Checkout → Pedido
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/thenifemi/PetShop.git
+git clone https://github.com/isairey/AppMovilE-CommerceMascotas.git
 ```
 
 ---
@@ -333,7 +333,7 @@ git clone https://github.com/thenifemi/PetShop.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd PetShop
+cd AppMovilE-CommerceMascotas
 ```
 
 ---
@@ -509,7 +509,7 @@ Si encuentras errores o problemas:
 
 <div align="center">
 
-## Nifemi — Flutter Mobile Developer
+## Isai Reyes — Flutter Mobile Developer
 
 Desarrollador apasionado por Flutter, Firebase y aplicaciones móviles modernas 🚀
 
